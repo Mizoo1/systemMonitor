@@ -1,3 +1,4 @@
+[![CI/CD Pipeline](https://github.com/Mizoo1/systemMonitor/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Mizoo1/systemMonitor/actions/workflows/ci-cd.yml)
 # System Monitor
 
 ![System Monitor Icon](icons/cpu.png)
