@@ -38,7 +38,7 @@ jobs:
       run: |
         source .venv/bin/activate
         pip install pyinstaller
-        pyinstaller system_monitor.spec
+        pyinstaller --onefile --windowed system_monitor.py
 
     - name: Archive build
       uses: actions/upload-artifact@v2
